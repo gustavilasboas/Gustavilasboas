@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil
 
-<!--
-**gustavilasboas/Gustavilasboas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-MEU NOME E GUSTAVO RODRIGUES VILAS BOAS
 
-Here are some ideas to get you started:
+-ESTOU ESTUDANDO NO ALURA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ -ESTOU ME DESENVOLVENDO EM LINGUAGEM JAVASCRIPT
+ 
+--UTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAMENTO DOS MEUS PROJETOS,
+
+#VOCE ENTRAR EM CONTATO COMIGO 📧
+
+gustavo11brilho@gmail.com
+
+![](https://media1.tenor.com/m/CZiVPwCvGoYAAAAC/vin-diesel-fast-and-furious.gifd)
